@@ -2,7 +2,7 @@
 
 Hello world!!!!
 
-Second change!
+
 
 # New version of this course (2025)
 
