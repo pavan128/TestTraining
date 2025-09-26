@@ -4,7 +4,7 @@ Hello world!!!!
 
 Second change!
 
-# New version of this course (2020)
+# New version of this course (2025)
 
 ### gitforeverybody.com
 
